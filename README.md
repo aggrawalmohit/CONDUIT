@@ -1,7 +1,7 @@
 Important Points:
 1. All test data required is placed in "conduitData.xlsx" file which is available in src/main/resources/resources.
 2. Path for browser is handled by webdriverManager api.
-3.Please execute this program from testng.xml
+3. Please execute this program from testng.xml
 
 
 ************************************About project and Structure********************************************************
