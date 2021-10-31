@@ -5,7 +5,7 @@ Important Points:
 
 
 ************************************About project and Structure********************************************************
-1.src/main/java : contains all main functions
+1. src/main/java : contains all main functions
 	
 com.conduit.qa.base : Contains two methods "init" and start appliaction.
 
